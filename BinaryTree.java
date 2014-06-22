@@ -7,7 +7,6 @@ import java.util.List;
  * 
  * @author Johannes Fag 2014
  */
-
 public class BinaryTree {
     
     private Node root = null;
