@@ -5,7 +5,7 @@ import java.util.List;
  * This class contains public methods to add, order and
  * remove nodes in a binary tree.
  * 
- * @author Johannes Fag 2014
+ * @author Johannes Millegard 2014
  */
 public class BinaryTree {
     
