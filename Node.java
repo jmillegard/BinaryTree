@@ -2,7 +2,7 @@
  * Node class with reference to the right and left node
  * and with a specific value.
  * 
- * @author Johannes Fag
+ * @author Johannes Millegard
  */
 
 public class Node {
